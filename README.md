@@ -47,14 +47,5 @@ This portfolio is a synthesis of multiple learning components — career guidanc
 
 ---
 
-## 🔗 Submission Information
-
-- **Platform**: GitHub
-- **Repository**: https://github.com/flyinginsectsunpig
-- **Submitted on**: 2025/05/23
-- **For**: Work Readiness Training Programme
-
----
-
 Thank you for reviewing my e-portfolio!
 
