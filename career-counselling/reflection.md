@@ -1,7 +1,7 @@
 # 🌟 Reflection: Career Counselling (STAR Technique)
 
 **SITUATION**  
-As part of Work Integrated Learning, I attended a careed development plan focused on helping students align their skills and interests with potential career paths.
+As part of Work Integrated Learning, I completed a career development plan focused on helping students align their skills and interests with potential career paths.
 
 **TASK**  
 My goal was to identify a suitable career direction and understand the steps required to pursue it effectively.
