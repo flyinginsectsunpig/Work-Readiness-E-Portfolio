@@ -9,7 +9,7 @@ Each section contains relevant artefacts (evidence) and reflections using the **
 ## 📚 Portfolio Sections
 
 ### 1. 🎯 [Career Counselling](./career-counselling/)
-- `evidence.md`: Proof of participation in career counselling sessions.
+- `evidence.md`: Proof of participation in career counselling.
 - `reflection.md`: Reflection using STAR on what I learned and how it impacted my career planning.
 
 ### 2. 💡 [Skills and Interests](./skills-and-interests/)
@@ -17,7 +17,7 @@ Each section contains relevant artefacts (evidence) and reflections using the **
 - `reflection.md`: STAR-based reflection on how I have applied these skills.
 
 ### 3. 🧠 [Personality Assessment](./personality-assessment/)
-- `evidence.md`: Personality test results (e.g., MBTI or Enneagram).
+- `evidence.md`: Personality assessment.
 - `reflection.md`: Reflection using STAR on how my personality traits influence my performance and teamwork.
 
 ### 4. 📝 [Create a CV](./cv/)
